@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\exploded-aar\brioniinfo\cjenikuslugainterface\unspecified\jars\libs\ActiveAndroid.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="586d933b733ec44dab4ae69143792523f4b2e34d">
+        <dex dex="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\pre-dexed\debug\ActiveAndroid-b02f7c4c5995907a77d28995307d5d06ecb92676.jar" />
+    </item>
+    <item
+        jar="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\pre-dexed\debug\classes-f2ccc913a45cc6fbe9409e1fd0b282466d80affc.jar" />
+    </item>
+    <item
+        jar="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\exploded-aar\brioniinfo\cjenikuslugainterface\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="780303202bde09fdfce6a3acd57c43c9a41a82ab">
+        <dex dex="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\pre-dexed\debug\classes-6b2fc2beab549f9c6f4169de10e75772dbc4612e.jar" />
+    </item>
+    <item
+        jar="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-6fa3febb649b3ff51265100096e069e199b9b23c.jar" />
+    </item>
+    <item
+        jar="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\exploded-aar\brioniinfo\cjenikuslugawebmodul\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c54d320c3f577ced3b2bfd2921b3812857eae5e3">
+        <dex dex="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\pre-dexed\debug\classes-a4d4177ca925bcd428ea425a0404a11848ff6f33.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-42f9f311e5d8aa19a1d5607e46b5bee7b7c61699.jar" />
+    </item>
+    <item
+        jar="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\pre-dexed\debug\classes-212e89e61f84f543d10e6acdd0a7d7ac1f875adb.jar" />
+    </item>
+    <item
+        jar="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\exploded-aar\brioniinfo\cjenikuslugatxt\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c182158720c0ee01da6e1993a84650f7bf74b4b8">
+        <dex dex="E:\brioniinfo_workspace\brioniinfo\app\build\intermediates\pre-dexed\debug\classes-025c89deaf6f5affb2930a45f51aed4c4c981715.jar" />
+    </item>
+
+</items>

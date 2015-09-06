@@ -1,0 +1,29 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hr.foi.air.brioniinfo.FragmentRezultat"
+    android:background="#81878a">
+
+    <TextView
+        android:id="@+id/txtView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="130dp"
+        android:layout_marginRight="120dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/FragmentRezultat"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#06004A"/>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/list1"
+        android:layout_marginTop="80dp">
+
+    </ListView>
+
+</FrameLayout>

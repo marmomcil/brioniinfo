@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Brioni Info</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="opendrawer">Open</string>
+    <string name="closedrawer">Close</string>
+
+    <string name="FragmentPocetna">Dobrodošli u aplikaciju\nBrioni Info</string>
+    <string name="FragmentInformacije">INFORMACIJE</string>
+    <string name="FragmentCjenikUsluga">CJENIK USLUGA</string>
+    <string name="FragmentVozniRed">VOZNI RED</string>
+    <string name="FragmentPosebanVozniRed">POSEBAN VOZNI RED</string>
+    <string name="FragmentRezultat">DETALJI</string>
+    <string name="FragmentOsnovniRezultat">REZULTAT PRETRAGE</string>
+
+    <string name="contentDescriptionImageLogo">Logo</string>
+    <string name="btnPretrazi">Pretraži</string>
+    <string name="autoTxtPolazak">PolaznaStanica</string>
+    <string name="autoTxtDolazak">DolaznaStanica</string>
+
+    <string name="textViewNaziv">Kolodvor: </string>
+    <string name="textViewTelefon">Tel: </string>
+    <string name="textViewCijena">Cijena usluge: </string>
+    <string name="responseTextView">New Text</string>
+    <string name="napomena">*Cijena usluge odnosi se na cijenu koja se \nplaća prilikom rezervacije karte na kolodvoru!</string>
+    <string name="prtljaga">Cijena praćene prtljage (1 kom.) po osobi iznosi 8,00 HRK\n\nCijena nepraćene prtljage (1 kom.) po osobi iznosi 30,00 HRK</string>
+    <string name="infoTxt">BRIONI d.d. - PUTNIČKA AGENCIJA\n52100 Pula, Trg I istarske brigade 1\nTel.052 501 860\ne-mail: turizam@brioni.hr</string>
+
+    <string name="posebanVRIkea">JEDNODNEVNI IZLET\nIKEA CENTAR VILLESSE\nsvaka subota\nCIJENA: 130,00 HRK po osobi\nPula(07:30)>>IKEA(10:00)\nIKEA(18:30)>>Pula(21:00)</string>
+    <string name="posebanVRTus">JEDNODNEVNI IZLET\nPLANET TUŠ CENTAR - KOPAR\nsvaka subota\nCIJENA: 95,00 HRK po osobi\nPula(07:30)>>IKEA(09:00)\nIKEA(19:30)>>Pula(21:00)</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ikeaPicture">ikea</string>
+    <string name="vrijemePolaska">[+]Vrijeme polaska: </string>
+    <string name="txtVrijemeDolaska">[+] Vrijeme dolaska:</string>
+    <string name="txtCijena">[+] Cijena:</string>
+    <string name="izbor_cjenika">Izbor cjenika</string>
+    <string name="web">Ucitaj s web-a</string>
+    <string name="loc">Ucitaj iz lokalne datoteke</string>
+    <string name="ok">U redu</string>
+    <string name="cjenik">Cjenik</string>
+    <string name="naziv">Naziv</string>
+    <string name="telefon">Telefon</string>
+    <string name="cijena">Cijena</string>
+
+</resources>

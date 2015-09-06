@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hr.foi.air.brioniinfo.FragmentPosebanVozniRed"
+    android:background="#C2C3FF">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/txtPoseban"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="120dp"
+        android:layout_marginRight="120dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/FragmentPosebanVozniRed"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#06004A"/>
+
+    <TextView
+        android:id="@+id/posebanVRIkea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        android:text="@string/posebanVRIkea"
+        android:textSize="18sp"
+        android:textColor="#0700bf"
+        android:layout_alignTop="@+id/txtPoseban"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="79dp" />
+
+    <TextView
+        android:id="@+id/posebanVRTus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        android:text="@string/posebanVRTus"
+        android:textSize="18sp"
+        android:textColor="#045c00"
+        android:layout_alignTop="@+id/txtPoseban"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp" />
+
+</RelativeLayout>

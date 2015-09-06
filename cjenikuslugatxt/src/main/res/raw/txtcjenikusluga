@@ -1,0 +1,14 @@
+{
+    "cjenik":{
+        "1":{
+            "naziv": "Pula",
+            "telefon": "060 111 222",
+            "cijena": "7"
+        },
+        "2":{
+            "naziv": "Rovinj",
+            "telefon": "060 555 555",
+            "cijena": "7"
+        }
+    }
+}

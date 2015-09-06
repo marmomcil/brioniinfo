@@ -1,0 +1,71 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false"
+    android:background="#d5e0e5">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/naslovCjenik"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|top"
+            android:layout_marginLeft="130dp"
+            android:layout_marginRight="120dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/FragmentCjenikUsluga"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#06004A"/>
+
+        <TextView
+            android:id="@+id/napomena"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#06004A"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10sp"
+            android:text="@string/napomena"
+            android:layout_below="@+id/naslovCjenik"/>
+
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lvCjenik"
+            android:layout_below="@+id/napomena"
+            android:layout_marginTop="20dp">
+
+        </ListView>
+
+        <TextView
+            android:id="@+id/responseTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/responseTextView"
+            android:layout_below="@+id/napomena"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="40dp"
+            android:textSize="18sp"
+            android:textAlignment="center"
+            android:textColor="#06004A"/>
+
+        <TextView
+            android:id="@+id/prtljaga"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/responseTextView"
+            android:textSize="18sp"
+            android:layout_marginTop="20dp"
+            android:text="@string/prtljaga"
+            android:textColor="#5a73ff"/>
+    </RelativeLayout>
+</ScrollView>

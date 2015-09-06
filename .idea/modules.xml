@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/BrioniInfo.iml" filepath="$PROJECT_DIR$/app/BrioniInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brioniinfo.iml" filepath="$PROJECT_DIR$/brioniinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjenikuslugainterface/cjenikuslugainterface.iml" filepath="$PROJECT_DIR$/cjenikuslugainterface/cjenikuslugainterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjenikuslugatxt/cjenikuslugatxt.iml" filepath="$PROJECT_DIR$/cjenikuslugatxt/cjenikuslugatxt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjenikuslugawebmodul/cjenikuslugawebmodul.iml" filepath="$PROJECT_DIR$/cjenikuslugawebmodul/cjenikuslugawebmodul.iml" />
+    </modules>
+  </component>
+</project>
